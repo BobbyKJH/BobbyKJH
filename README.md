@@ -40,4 +40,4 @@
   ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
   </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnguscjsw&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyKJHw&show_icons=true&theme=radical)
